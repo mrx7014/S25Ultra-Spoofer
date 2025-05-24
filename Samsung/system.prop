@@ -1,0 +1,34 @@
+## Maintened by @MRX7014
+###
+# begin product/etc/build.prop
+###
+
+# begin common build properties
+ro.product.brand=samsung
+ro.product.device=pa3q
+ro.product.manufacturer=samsung
+ro.product.model=SM-S938B
+ro.product.name=Samsung S25 Ultra
+ro.product.product.brand=samsung
+ro.product.product.device=pa3q
+ro.product.product.manufacturer=samsung
+ro.product.product.model=SM-S938B
+ro.product.build.date=Sat Feb  8 12:03:37 KST 2025
+ro.product.build.date.utc=1738983817
+ro.product.build.fingerprint=samsung/pa3q/pa3q:15/AP3A.240905.015.A2/S938BXXU1AYB4:user/release-keys
+ro.product.build.id=AP3A.240905.015.A2
+ro.product.build.version.incremental=S938BXXU1AYB4
+# end common build properties
+
+# begin build properties
+ro.build.date=Sat Feb  8 12:03:37 KST 2025
+ro.build.date.utc=1738983817
+ro.build.fingerprint=samsung/pa3q/pa3q:15/AP3A.240905.015.A2/S938BXXU1AYB4:user/release-keys
+ro.build.id=AP3A.240905.015.A2
+ro.build.display.id=AP3A.240905.015.A2.S938BXXU1AYB4
+ro.build.description=pa3q-user 15 AP3A.240905.015.A2 S938BXXU1AYB4 release-keys
+ro.build.version.incremental=S938BXXU1AYB4
+# end build properties
+
+# Samsung Specific Properties
+ro.build.PDA=S938BXXU1AYB4
