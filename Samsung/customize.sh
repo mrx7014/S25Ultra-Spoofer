@@ -1,6 +1,6 @@
 ui_print "S25 Ultra Spoofer"
 ui_print "Spoof Your Device To S25 Ultra Spoofer [S938BXXU1AYB4] (OneUI 7.0)"
-ui_print "v1.2.0 - Samsung Only"
+ui_print "v1.3.0 - Samsung Only"
 ui_print "By: MRX7014"
 ui_print "✨ Don't forget to join MRX7014 Cloud!"
 am start -a android.intent.action.VIEW -d "https://t.me/mrx7014cloud"
