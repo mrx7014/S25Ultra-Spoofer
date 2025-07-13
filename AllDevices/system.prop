@@ -1,9 +1,8 @@
 ro.product.brand=samsung
 ro.product.device=pa3q
 ro.product.manufacturer=samsung
-ro.product.model=SM-S938B
-ro.product.name=Samsung S25 Ultra
+ro.product.model=Samsung S25 Ultra
+ro.product.name=SM-S938B
 ro.product.product.model=SM-S938B
-ro.product.build.fingerprint=samsung/pa3q/pa3q:15/AP3A.240905.015.A2/S938BXXU1AYB4:user/release-keys
-ro.product.build.id=AP3A.240905.015.A2
-ro.product.build.version.incremental=S938BXXU1AYB4
+ro.build.fingerprint=samsung/pa3q/pa3q:15/AP3A.240905.015.A2/S938BXXU1AYB4:user/release-keys
+ro.build.id=AP3A.240905.015.A2.MRX7014
